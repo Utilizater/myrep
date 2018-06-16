@@ -2,6 +2,7 @@ import java.io.*;
 
 /**
  * комммментарииииииййй Created by npolevoy on 05.11.2014.
+ * Комент 2
  */
 public class Main {
     public static void main(String[] array) throws IOException {
