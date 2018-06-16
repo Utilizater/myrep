@@ -1,7 +1,7 @@
 import java.io.*;
 
 /**
- * Created by npolevoy on 05.11.2014.
+ * комммментарииииииййй Created by npolevoy on 05.11.2014.
  */
 public class Main {
     public static void main(String[] array) throws IOException {
